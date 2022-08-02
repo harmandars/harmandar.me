@@ -1,0 +1,5 @@
+baseURL = 'http://example.org/'
+languageCode = 'tr-TR'
+title = 'Süleyman Harmandar'
+theme = 'lugo'
+
